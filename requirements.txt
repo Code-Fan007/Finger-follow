@@ -1,0 +1,7 @@
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+numpy==1.24.3
+PyAutoGUI==0.9.54
+mediapipe==0.10.8
+pycaw==20230407
+comtypes==1.4.7
