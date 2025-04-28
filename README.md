@@ -1,6 +1,6 @@
 # Finger-follow
 This is a project that uses OpenCV for gesture recognition to control the computer's volume.
-
+use python3.8
 
 1、<img width="393" alt="image" src="https://github.com/user-attachments/assets/68078812-8e64-4001-a6ce-d7a39ec4b7d1">
 2、<img width="393" alt="image" src="https://github.com/user-attachments/assets/2d05c98f-8d39-458d-a47e-3ae55ff8ac0f">
